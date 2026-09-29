@@ -1,7 +1,7 @@
 <h1 align="center">Sakshi Mohan Harikant</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;MCA+Student+%40+CMR+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>CMR University</b> <b>·</b> Building <b>full-stack applications</b> with Java, Spring Boot, React and FastAPI<br/>
+  Building <b>full-stack applications</b> with Java, Spring Boot, React and FastAPI<br/>
   Learning and improving with every project <b>·</b> Based in <b>Bengaluru, India</b>
 </p>
 
