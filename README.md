@@ -18,29 +18,38 @@
 
 <h2><img src="https://api.iconify.design/lucide/layers.svg?color=%233B82F6&width=26" width="26" align="absmiddle" />&nbsp; Tech Stack</h2>
 
-<p><img src="https://api.iconify.design/lucide/terminal.svg?color=%233B82F6&width=20" width="20" align="absmiddle" />&nbsp; <b>LANGUAGES</b></p>
-
-`Java` `Python` `JavaScript`
-
-<p><img src="https://api.iconify.design/lucide/server.svg?color=%233B82F6&width=20" width="20" align="absmiddle" />&nbsp; <b>BACKEND</b></p>
-
-`Spring Boot` `Spring Security` `Hibernate` `FastAPI` `Node.js`
-
-<p><img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%233B82F6&width=20" width="20" align="absmiddle" />&nbsp; <b>FRONTEND</b></p>
-
-`React` `HTML5` `CSS3` `Tailwind CSS`
-
-<p><img src="https://api.iconify.design/lucide/database.svg?color=%233B82F6&width=20" width="20" align="absmiddle" />&nbsp; <b>DATABASES</b></p>
-
-`MySQL` `PostgreSQL` `MongoDB`
-
-<p><img src="https://api.iconify.design/lucide/sparkles.svg?color=%233B82F6&width=20" width="20" align="absmiddle" />&nbsp; <b>AI &amp; LLM</b></p>
-
-`RAG` `Groq API` `PGVector` `scikit-learn`
-
-<p><img src="https://api.iconify.design/lucide/wrench.svg?color=%233B82F6&width=20" width="20" align="absmiddle" />&nbsp; <b>TOOLS &amp; DEPLOYMENT</b></p>
-
-`Git` `GitHub` `Docker` `Maven` `IntelliJ IDEA` `VS Code` `Vercel` `Render`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/terminal.svg?color=%233B82F6&width=20" width="20" align="absmiddle" />&nbsp; <b>LANGUAGES</b><br/><br/>
+      <code>Java</code> <code>Python</code> <code>JavaScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/server.svg?color=%233B82F6&width=20" width="20" align="absmiddle" />&nbsp; <b>BACKEND</b><br/><br/>
+      <code>Spring Boot</code> <code>Spring Security</code> <code>Hibernate</code> <code>FastAPI</code> <code>Node.js</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%233B82F6&width=20" width="20" align="absmiddle" />&nbsp; <b>FRONTEND</b><br/><br/>
+      <code>React</code> <code>HTML5</code> <code>CSS3</code> <code>Tailwind CSS</code>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/database.svg?color=%233B82F6&width=20" width="20" align="absmiddle" />&nbsp; <b>DATABASES</b><br/><br/>
+      <code>MySQL</code> <code>PostgreSQL</code> <code>MongoDB</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/sparkles.svg?color=%233B82F6&width=20" width="20" align="absmiddle" />&nbsp; <b>AI &amp; LLM</b><br/><br/>
+      <code>RAG</code> <code>Groq API</code> <code>PGVector</code> <code>scikit-learn</code>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/wrench.svg?color=%233B82F6&width=20" width="20" align="absmiddle" />&nbsp; <b>TOOLS &amp; DEPLOYMENT</b><br/><br/>
+      <code>Git</code> <code>GitHub</code> <code>Docker</code> <code>Maven</code> <code>IntelliJ IDEA</code> <code>VS Code</code> <code>Vercel</code> <code>Render</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
