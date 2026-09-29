@@ -11,7 +11,7 @@
 
 <p align="center">
   Pursuing MCA at <b>CMR University</b> · Building <b>full-stack applications</b> with Java, Spring Boot, React and FastAPI<br/>
-  Focused on <b>secure backends</b>: JWT, OAuth 2.0 and role-based access · Based in <b>Bengaluru, India</b>
+  Learning and improving with every project · Based in <b>Bengaluru, India</b>
 </p>
 
 ---
