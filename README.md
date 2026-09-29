@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Pursuing MCA at <b>CMR University</b> <b>·</b> Building <b>full-stack applications</b> with Java, Spring Boot, React and FastAPI<br/>
+  <b>CMR University</b> <b>·</b> Building <b>full-stack applications</b> with Java, Spring Boot, React and FastAPI<br/>
   Learning and improving with every project <b>·</b> Based in <b>Bengaluru, India</b>
 </p>
 
