@@ -1,26 +1,17 @@
 <h1 align="center">Sakshi Mohan Harikant</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+AI-powered+apps+with+RAG;MCA+Student+%40+CMR+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;MCA+Student+%40+CMR+University" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sakshi-harikant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:connect.sakshi16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sakshi-harikant&label=Profile+Views&color=6C63FF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Development_Intern-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTE2IDIwVjRhMiAyIDAgMCAwLTItMmgtNGEyIDIgMCAwIDAtMiAydjE2Ii8+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE0IiB4PSIyIiB5PSI2IiByeD0iMiIvPjwvc3ZnPg==&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alphoris_Technologies_LLP-181717?style=for-the-badge" />
 </p>
 
----
-
-<h2><img src="https://api.iconify.design/lucide/user.svg?color=%236C63FF&width=26" width="26" align="absmiddle" />&nbsp; About Me</h2>
-
-<p>
-<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%236C63FF&width=22" width="22" align="absmiddle" />&nbsp; <b>EDUCATION</b> &nbsp;·&nbsp; MCA at <b>CMR University</b> (CGPA <b>9.34/10</b>), BCA with <b>9.49/10</b><br/><br/>
-<img src="https://api.iconify.design/lucide/briefcase.svg?color=%236C63FF&width=22" width="22" align="absmiddle" />&nbsp; <b>EXPERIENCE</b> &nbsp;·&nbsp; Software Development Intern at <b>Alphoris Technologies LLP</b><br/><br/>
-<img src="https://api.iconify.design/lucide/code-xml.svg?color=%236C63FF&width=22" width="22" align="absmiddle" />&nbsp; <b>BUILDS</b> &nbsp;·&nbsp; <b>Full-stack apps</b> with Java, Spring Boot, React and FastAPI<br/><br/>
-<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%236C63FF&width=22" width="22" align="absmiddle" />&nbsp; <b>AI FOCUS</b> &nbsp;·&nbsp; <b>LLM apps</b> using RAG, vector embeddings and the Groq API<br/><br/>
-<img src="https://api.iconify.design/lucide/shield-check.svg?color=%236C63FF&width=22" width="22" align="absmiddle" />&nbsp; <b>SECURITY</b> &nbsp;·&nbsp; <b>JWT</b> · <b>OAuth 2.0</b> · <b>Role-based access</b><br/><br/>
-<img src="https://api.iconify.design/lucide/map-pin.svg?color=%236C63FF&width=22" width="22" align="absmiddle" />&nbsp; <b>LOCATION</b> &nbsp;·&nbsp; <b>Bengaluru, India</b>
+<p align="center">
+  Pursuing MCA at <b>CMR University</b> · Building <b>full-stack applications</b> with Java, Spring Boot, React and FastAPI<br/>
+  Focused on <b>secure backends</b>: JWT, OAuth 2.0 and role-based access · Based in <b>Bengaluru, India</b>
 </p>
 
 ---
@@ -78,7 +69,7 @@
 
 <h3><img src="https://api.iconify.design/lucide/message-square-text.svg?color=%236C63FF&width=22" width="22" align="absmiddle" />&nbsp; RAG Chatbot: Document Q&amp;A Platform</h3>
 
-AI-powered app to upload documents and chat with them using Retrieval-Augmented Generation.
+Upload documents and chat with them using Retrieval-Augmented Generation.
 
 - Upload **PDF / DOCX / TXT** files and ask questions about them
 - **Google OAuth 2.0** login, chat history and REST APIs
@@ -120,40 +111,19 @@ React app powered by a **Random Forest** model that predicts sleep quality.
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/briefcase.svg?color=%236C63FF&width=26" width="26" align="absmiddle" />&nbsp; Experience</h2>
-
-<p><b>Software Development Intern</b> · Alphoris Technologies LLP<br/>
-<sub>Aug 2026 – Present · Bengaluru, India</sub></p>
-
-- Built a **lead generation platform** (React.js, FastAPI, MongoDB Atlas) automating contact discovery across **20+ companies**, cutting manual research by **~70%**
-- Integrated the **Hunter.io API** for email discovery and verification (~85% verified across 100+ leads tested)
-- Implemented **JWT auth** with bcrypt hashing and SendGrid password reset
-- Added search, pagination, duplicate detection and **CSV/Excel export**
-- Deployed on **Vercel, Render and MongoDB Atlas**
-
----
-
-<h2><img src="https://api.iconify.design/lucide/chart-column.svg?color=%236C63FF&width=26" width="26" align="absmiddle" />&nbsp; GitHub Stats</h2>
+<h2 align="center"><img src="https://api.iconify.design/lucide/handshake.svg?color=%236C63FF&width=28" width="28" align="absmiddle" />&nbsp; Let's Build Something Together</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshi-harikant&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-harikant&layout=compact&theme=tokyonight&hide_border=true" />
+  Open to internships, collaborations and interesting problems.<br/>
+  Reach out through any of these:
 </p>
 
----
-
-<h2><img src="https://api.iconify.design/lucide/award.svg?color=%236C63FF&width=26" width="26" align="absmiddle" />&nbsp; Certifications</h2>
-
-<p>
-<img src="https://api.iconify.design/lucide/badge-check.svg?color=%236C63FF&width=20" width="20" align="absmiddle" />&nbsp; <b>Microsoft</b> · Introduction to Git <sub>(May 2026)</sub><br/><br/>
-<img src="https://api.iconify.design/lucide/badge-check.svg?color=%236C63FF&width=20" width="20" align="absmiddle" />&nbsp; <b>Accenture Nordics</b> · Software Engineering Job Simulation <sub>(Nov 2025)</sub>
+<p align="center">
+  <a href="mailto:connect.sakshi16@gmail.com"><img src="https://img.shields.io/badge/Email-connect.sakshi16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sakshi-harikant"><img src="https://img.shields.io/badge/LinkedIn-sakshi--harikant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sakshi-harikant"><img src="https://img.shields.io/badge/GitHub-sakshi--harikant-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
-
-<h2><img src="https://api.iconify.design/lucide/mail.svg?color=%236C63FF&width=26" width="26" align="absmiddle" />&nbsp; Let's Connect</h2>
-
-<p>
-<img src="https://api.iconify.design/lucide/mail.svg?color=%236C63FF&width=20" width="20" align="absmiddle" />&nbsp; <a href="mailto:connect.sakshi16@gmail.com"><b>connect.sakshi16@gmail.com</b></a><br/><br/>
-<img src="https://api.iconify.design/lucide/linkedin.svg?color=%236C63FF&width=20" width="20" align="absmiddle" />&nbsp; <a href="https://linkedin.com/in/sakshi-harikant"><b>linkedin.com/in/sakshi-harikant</b></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
 </p>
