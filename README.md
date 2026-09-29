@@ -51,4 +51,88 @@
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
 ![PGVector](https://img.shields.io/badge/PGVector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&log
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 RAG Chatbot: Document Q&A Platform
+An AI-powered app that lets you upload documents and chat with them using Retrieval-Augmented Generation.
+- Upload **PDF / DOCX / TXT** files and ask questions about them
+- **Google OAuth 2.0** login, chat history, and REST APIs
+- Documents and conversations managed in **PostgreSQL**
+
+`Java` `Spring Boot` `Spring Security` `Groq API` `PostgreSQL` `OAuth 2.0` `Maven`
+
+### 🎓 Student Information Management System
+A secure full-stack system for managing student records.
+- **Role-based authentication**, secure password hashing, password recovery
+- Unique **Student ID generation**
+- Admin dashboard with **CRUD** operations and student search
+
+`Java` `Spring Boot` `Spring Data JPA` `Thymeleaf` `Tailwind CSS` `MySQL`
+
+### 😴 Predictive Sleep Health Analytics
+A React app powered by a **Random Forest** model that predicts sleep quality.
+- Sleep score visualization and personalized health recommendations
+- Responsive UI with **Light/Dark mode**
+
+`Python` `scikit-learn` `React.js` `Tailwind CSS` `Node.js`
+
+> 📂 More on my [repositories page](https://github.com/sakshi-harikant?tab=repositories).
+
+---
+
+## 💼 Experience Highlight
+
+**Software Development Intern @ Alphoris Technologies LLP** *(Aug 2026 – Present)*
+
+Built a **lead generation platform** (React.js, FastAPI, MongoDB Atlas):
+- Automated contact discovery across **20+ companies**, cutting manual research time by **~70%**
+- Integrated the **Hunter.io API** for email discovery and verification (~85% verified across 100+ leads tested)
+- Implemented **JWT auth** with bcrypt hashing and SendGrid password reset
+- Added search, pagination, duplicate detection, and **CSV/Excel export**
+- Deployed on **Vercel, Render, and MongoDB Atlas**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshi-harikant&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-harikant&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏅 Certifications
+
+- 🔹 Microsoft: Introduction to Git *(May 2026)*
+- 🔹 Accenture Nordics: Software Engineering Job Simulation *(Nov 2025)*
+
+---
+
+## 🌱 Currently
+
+- 🔭 Building more AI/LLM projects with RAG and vector search
+- 📚 Deepening my skills in Spring Boot, system design, and Docker
+- 🤝 Open to internships, collaborations, and learning opportunities
+
+---
+
+<p align="center">
+  <b>📫 Let's connect!</b><br/>
+  <a href="mailto:connect.sakshi16@gmail.com">connect.sakshi16@gmail.com</a> ·
+  <a href="https://linkedin.com/in/sakshi-harikant">LinkedIn</a>
+</p>
