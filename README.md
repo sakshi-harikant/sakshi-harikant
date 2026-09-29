@@ -47,14 +47,13 @@
 <h2 align="center"><img src="https://api.iconify.design/lucide/handshake.svg?color=%233B82F6&width=28" width="28" align="absmiddle" />&nbsp; Let's Build Something Together</h2>
 
 <p align="center">
-  Open to internships, collaborations and interesting problems.<br/>
-  The best way to reach me is through any of these:
+  Open to internships, collaborations and interesting problems.
 </p>
 
 <p align="center">
-  <a href="mailto:connect.sakshi16@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/sakshi-harikant"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/sakshi-harikant"><img src="https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:connect.sakshi16@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/sakshi-harikant"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/sakshi-harikant"><img src="https://img.shields.io/badge/GitHub-3B82F6?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
