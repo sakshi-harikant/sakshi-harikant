@@ -20,48 +20,27 @@
 
 <p><img src="https://api.iconify.design/lucide/terminal.svg?color=%236C63FF&width=20" width="20" align="absmiddle" />&nbsp; <b>LANGUAGES</b></p>
 
-![Java](https://img.shields.io/badge/Java-6C63FF?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6C63FF?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-6C63FF?style=flat-square&logo=javascript&logoColor=white)
+`Java` `Python` `JavaScript`
 
 <p><img src="https://api.iconify.design/lucide/server.svg?color=%236C63FF&width=20" width="20" align="absmiddle" />&nbsp; <b>BACKEND</b></p>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6C63FF?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6C63FF?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-6C63FF?style=flat-square&logo=hibernate&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-6C63FF?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6C63FF?style=flat-square&logo=nodedotjs&logoColor=white)
+`Spring Boot` `Spring Security` `Hibernate` `FastAPI` `Node.js`
 
 <p><img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%236C63FF&width=20" width="20" align="absmiddle" />&nbsp; <b>FRONTEND</b></p>
 
-![React](https://img.shields.io/badge/React-6C63FF?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-6C63FF?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6C63FF?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-6C63FF?style=flat-square&logo=tailwind-css&logoColor=white)
+`React` `HTML5` `CSS3` `Tailwind CSS`
 
 <p><img src="https://api.iconify.design/lucide/database.svg?color=%236C63FF&width=20" width="20" align="absmiddle" />&nbsp; <b>DATABASES</b></p>
 
-![MySQL](https://img.shields.io/badge/MySQL-6C63FF?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6C63FF?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-6C63FF?style=flat-square&logo=mongodb&logoColor=white)
+`MySQL` `PostgreSQL` `MongoDB`
 
 <p><img src="https://api.iconify.design/lucide/sparkles.svg?color=%236C63FF&width=20" width="20" align="absmiddle" />&nbsp; <b>AI &amp; LLM</b></p>
 
-![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq_API-6C63FF?style=flat-square)
-![PGVector](https://img.shields.io/badge/PGVector-6C63FF?style=flat-square&logo=postgresql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-6C63FF?style=flat-square&logo=scikitlearn&logoColor=white)
+`RAG` `Groq API` `PGVector` `scikit-learn`
 
 <p><img src="https://api.iconify.design/lucide/wrench.svg?color=%236C63FF&width=20" width="20" align="absmiddle" />&nbsp; <b>TOOLS &amp; DEPLOYMENT</b></p>
 
-![Git](https://img.shields.io/badge/Git-6C63FF?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6C63FF?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-6C63FF?style=flat-square&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-6C63FF?style=flat-square&logo=apachemaven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-6C63FF?style=flat-square&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-6C63FF?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-6C63FF?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-6C63FF?style=flat-square&logo=render&logoColor=white)
+`Git` `GitHub` `Docker` `Maven` `IntelliJ IDEA` `VS Code` `Vercel` `Render`
 
 ---
 
